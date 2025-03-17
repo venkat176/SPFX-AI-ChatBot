@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.6",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "xen-wp-agent",
+    "libraryId": "3957b5d7-3e05-4ea2-a27e-813126d91ccc",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "xen-wp-agent",
+    "solutionShortDescription": "xen-wp-agent description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

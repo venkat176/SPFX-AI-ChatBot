@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "xen-wp-agent-client-side-solution",
+    "id": "3957b5d7-3e05-4ea2-a27e-813126d91ccc",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "xen-wp-agent description"
+      },
+      "longDescription": {
+        "default": "xen-wp-agent description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "xen-wp-agent Feature",
+        "description": "The feature that activates elements of the xen-wp-agent solution.",
+        "id": "ace7253c-5eb3-4ebe-995f-948d4fc062a5",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/xen-wp-agent.sppkg"
+  }
+}
